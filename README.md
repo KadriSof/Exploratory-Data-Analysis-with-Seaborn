@@ -24,4 +24,4 @@ Project is created with:
 
 	
 ## Setup
-Just download or clone this repository, open the notebook using Jupyter-notebook or Google Colab and run the cells0
+Just download or clone this repository, open the notebook using Jupyter-notebook or Google Colab and run the cells.
