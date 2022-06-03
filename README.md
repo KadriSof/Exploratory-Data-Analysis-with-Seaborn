@@ -14,6 +14,16 @@ Applying EDA techniques to draw insight from the Tumor Diagnosis dataset.
 This project is an application of Exploratory Data Analysis (EDA) on the Breast Cancer Wisconsin (Diagnostic) Data Set. 
 In this notebook you will be introduced to the key concepts in exploratory data analysis (EDA) using visualizations to identify and interpret inherent relationships in the data set, produce various chart types including histograms, violin plots, box plots, joint plots, pair grids, and heatmaps, customize plot aesthetics and apply faceting methods to visualize higher dimensional data.
 
+_Notebook content_:
+* Introduction and Importing Data
+* Separate Target from Features
+* Diagnosis Distribution Visualization
+* Visualizing Standardized Data with Seaborn
+* Violin Plots and Box Plots
+* Use Joint Plots for Feature Comparison
+* Observing Distributions and their Variance with Swarm Plots
+* Obtaining all Pairwise Correlations
+
 	
 ## Technologies
 Project is created with:
